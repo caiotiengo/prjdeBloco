@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DesignUI</string>
+
+    <string name="acessar">Acessar </string>
+    <string name="slogan">Proximia</string>
+    <string name="registrar">Registrar</string>
+    <string name="voltar">Voltar</string>
+    <string name="cep">CEP</string>
+    <string name="email">E-mail</string>
+    <string name="cpf">CPF</string>
+    <string name="celular">Celular</string>
+    <string name="nascimento">Data de Nascimento</string>
+    <string name="Nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Proximia</string>
+    <string name="nav_header_subtitle">Ajudando o próximo uma doação de cada vez</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_subscription">Minhas assinaturas</string>
+    <string name="menu_mydonations">Minhas doações</string>
+    <string name="menu_alldonations">Todas as doações</string>
+</resources>

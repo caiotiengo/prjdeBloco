@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/home"
+    android:title="Home"/>
+    <item
+        android:id="@+id/perfil"
+        android:title="Perfil"/>
+    <item
+        android:id="@+id/aboutus"
+        android:title="Sobre nós"/>
+    <item
+        android:id="@+id/doe"
+        android:title="Doe"/>
+</menu>

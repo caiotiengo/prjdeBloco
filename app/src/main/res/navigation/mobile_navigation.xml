@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="ui.ux.designui.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="ui.ux.designui.ui.subscriptions.GalleryFragment"
+        android:label="@string/menu_subscription"
+        tools:layout="@layout/fragment_subscription" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="ui.ux.designui.ui.mydonations.SlideshowFragment"
+        android:label="@string/menu_mydonations"
+        tools:layout="@layout/fragment_mydonations" />
+
+    <fragment
+        android:id="@+id/nav_tools"
+        android:name="ui.ux.designui.ui.alldonations.ToolsFragment"
+        android:label="@string/menu_alldonations"
+        tools:layout="@layout/fragment_alldonations" />
+
+</navigation>
